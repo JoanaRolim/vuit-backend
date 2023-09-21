@@ -1,0 +1,35 @@
+[
+    {
+      "_id": "609e8521d60cb03e8e939b74",
+      "name": "Admin",
+      "login": "08067878954",
+      "role": "admin",
+      "password": "123456",
+      "status": "Ativo"
+    },
+    {
+      "_id": "609e852870fd5f2e5d8e8a03",
+      "name": "Joana Pacheco Rolim",
+      "login": "08028912928",
+      "role": "user",
+      "password": "123456",
+      "status": "Ativo"
+    },
+    {
+      "_id": "60a511f3ace2a8e120c69621",
+      "name": "Read Only",
+      "login": "72837273994",
+      "role": "readonly",
+      "password": "123456",
+      "status": "Ativo"
+    },
+    {
+    "_id": "60a522f3ace2a8b120c69622",
+    "name": "User",
+    "login": "78499742934",
+    "role": "user",
+    "password": "123456",
+    "status": "Ativo"
+    }
+  ]
+  
